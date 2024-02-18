@@ -1539,7 +1539,7 @@ div#preloader {
   text-align: left;
 }
 .hero-slider .slide-inner .slide-content{
-  background: #2A5B3E;
+  background: #113b22e3;
   border-top-right-radius: 80px;
   border-bottom-left-radius: 80px;
   -webkit-animation: spineer 2s infinite;
@@ -2367,7 +2367,6 @@ couple-area end
   font-weight: 600;
   color: #444;
   margin: 0 0 0.5em;
-  text-transform: capitalize;
   font-family: 'Prata', cursive;
 }
 
@@ -2544,8 +2543,8 @@ animation: spineer 2s infinite;
 }
 .nav-tabs>.event-content>a {
     display: block;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     line-height: 50px;
     text-align: center;
     font-size: 16px;
@@ -2555,23 +2554,23 @@ animation: spineer 2s infinite;
     transition: all .3s;
     margin-right: 50px;
     background: transparent;
-    border: 10px solid rgba(133,170,186,.5);
+    border: 10px solid rgba(228, 234, 237, 0.5);
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
 .event-tabs .nav>li>a {
     position: relative;
     display: block;
-    padding: 15px 8px 5px;
+    padding: 25px 8px 5px;
 }
 .nav-tabs>.event-content.active>a, .nav-tabs>.event-content.active>a:focus, .nav-tabs>.event-content.active>a:hover{
   color:#fff;
-  background: rgba(133,170,186,.5);
+  background:#2a5b3e6f;
   border: 10px solid #2A5B3E;
 }
 .nav-tabs>.event-content>a:hover{
   color:#fff;
-  background: rgba(133,170,186,.5);
+  background:#2a5b3e6f;
   border: 10px solid #2A5B3E;
 }
 .event-text {
@@ -3020,7 +3019,7 @@ animation: spineer 2s infinite;
 }
 
 .rsvp-wrap {
-    background: rgba(133,170,186,.8);
+    background:#2A5B3E;
     padding: 70px;
     border-top-left-radius: 90px;
     border-bottom-right-radius: 90px;
@@ -3313,7 +3312,7 @@ option {
 }
 
 .slide-inner-2{
- background: url(../images/slider/slide-7.jpg) no-repeat center center / cover;
+ background: url(../images/slider/slide-8.jpg) no-repeat center center / cover;
  height: 850px;
 }
 
