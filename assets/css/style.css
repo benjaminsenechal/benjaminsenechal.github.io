@@ -1777,11 +1777,11 @@ div#preloader {
 }
 
 
-/*--------------------------------------------------------------
+/*----------------------------------------------------
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/footer-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/rsvp/img-1.jpg") center center/cover no-repeat local;
   text-align: center;
   padding: 235px 0 250px;
   position: relative;
@@ -3177,12 +3177,15 @@ option {
 .gta-content p {
     font-size: 15px;
     font-weight: 400;
-    color: #909090;
+    color: #252525;
     text-align: center;
     margin-bottom: 30px;
 }
 .gta-img img{
-  width:100%;
+  width: 80%;
+}
+.gta-img{
+  text-align: center;
 }
 /*========================
 1.5 Gift-area
