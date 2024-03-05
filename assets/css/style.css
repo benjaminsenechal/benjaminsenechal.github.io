@@ -2009,7 +2009,7 @@ div#preloader {
 }
 
 .couple-wrap {
-  margin-top: -100px;
+  margin-top: -40px;
 }
 
 .couple-img{
@@ -3151,7 +3151,9 @@ option {
 }
 .section-title-2 h2{
   color: #fff;
+  font-style: italic;
 }
+
 
 /*=============================
 1.4 getting-area start
