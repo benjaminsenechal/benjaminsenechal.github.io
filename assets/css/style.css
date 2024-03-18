@@ -2561,7 +2561,7 @@ animation: spineer 2s infinite;
 .event-tabs .nav>li>a {
     position: relative;
     display: block;
-    padding: 25px 8px 5px;
+    padding: 15px 8px 5px;
 }
 .nav-tabs>.event-content.active>a, .nav-tabs>.event-content.active>a:focus, .nav-tabs>.event-content.active>a:hover{
   color:#fff;
@@ -3301,6 +3301,9 @@ option {
     height: 300px;
     padding: 85px 0;
     border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
 }
 .site-footer-2 h2 {
     font-size: 36px;
